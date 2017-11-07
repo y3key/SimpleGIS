@@ -16,4 +16,4 @@ To start the application, execute src/simeplegis/LaunchSimpleGIS.java
 
 Note:
 * The application is using WorldToScreenTransform.java and DPoint.java from EXSE, Department of Geography, University of Bonn.
-* THe application is created 2002. Only some minor updates are done 2017. The fault tolerance as well as the internal architecture could be improved.
+* The application is created 2002. Only some minor updates are done 2017. The fault tolerance as well as the internal architecture could be improved.
